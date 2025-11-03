@@ -74,8 +74,8 @@ def speak(text:str=""):
 def send_email(message) -> bool:
     
     credentials = {
-        "SENDER_EMAIL": "ignacio.cs50p@gmail.com",
-        "SENDER_PASSWORD": "lbtz efev uadi ulie"
+        "SENDER_EMAIL": "[YOUR GMAIL ADDRESS]",
+        "SENDER_PASSWORD": "[YOUR APP PASSWORD]"
     }
     
     e_message = EmailMessage()
