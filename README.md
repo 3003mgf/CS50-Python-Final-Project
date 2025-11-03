@@ -1,6 +1,7 @@
 # HARVOFFE: Command-Line Coffee Shop Management System
 
-#### Video Demo: <URL HERE>
+#### Video Demo: [Here](https://youtu.be/c1qi_CYzcOk)
+#### GitHub Repo: [Here](https://github.com/3003mgf/CS50-Python-Final-Project)
 
 #### Description:
 
